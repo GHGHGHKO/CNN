@@ -18,3 +18,4 @@ image_test_code.ipynb
 inceptionv3_retrain.py
 inception v3 훈련
 
+<a href="lip_test_result.png">
